@@ -1,14 +1,9 @@
-# packages.txt
-# Dependencias GEOESPACIALES CRÍTICAS
 libgdal-dev
 gdal-bin
 libgeos-dev
-
-# Dependencias de RENDERIZADO y NAVEGADOR (para kaleido)
+libproj-dev
 xvfb
 chromium
-
-# Otras utilidades
 wget
 curl
 unzip
