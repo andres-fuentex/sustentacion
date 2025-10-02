@@ -1,0 +1,10 @@
+streamlit>=1.30
+geopandas
+pandas
+folium
+shapely
+plotly>=6.1.1
+kaleido==0.2.1
+streamlit-folium
+pydeck
+psutil==5.9.8
